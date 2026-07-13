@@ -12,7 +12,7 @@ cloudinary.config({
   api_secret: process.env.API_SECRET 
 });
 
-const dbURI = process.env.MONGODB_URI || 'mongodb+srv://rishabhjagtap:Sanskruti2026@cluster0.0v74m.mongodb.net/sanskruti';
+const dbURI = process.env.MONGODB_URI || 'your mongo url';
 
 const reelsDatabase = [
   { title: "What is Dharma?", caption: "Doing the right thing even when it's hard", insight: "Dharma is not just religion; it is your cosmic duty and the path of righteousness that sustains the universe.", actionItem: "Find one area in your life today where you can choose the harder 'right' over the easy 'wrong'.", category: "Philosophy", relatedModule: "storyverse", videoSrc: "/reels/reel1.mp4" },
