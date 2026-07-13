@@ -4,7 +4,7 @@ import Quiz from '../src/models/quiz.model';
 
 dotenv.config();
 
-const dbURI = process.env.MONGODB_URI || 'mongodb+srv://rishabhjagtap:Sanskruti2026@cluster0.0v74m.mongodb.net/sanskruti';
+const dbURI = process.env.MONGODB_URI || 'your mongo url';
 
 const masterQuizzes = [
   {
