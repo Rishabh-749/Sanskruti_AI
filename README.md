@@ -162,7 +162,7 @@ Sanskruti AI follows a modular architecture where each layer has a clearly defin
 # 🧠 AI Processing Pipeline
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="95%" alt="AI Processing Pipeline"/>
+  <img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/AI%20pipeline.png" width="95%" alt="AI Processing Pipeline"/>
 </p>
 
 Sanskruti AI enriches every user query with cultural context before processing it through Google Gemini, delivering structured, relevant, and educational responses across Scripture Intelligence, Storyverse, Voice Q&A, and personalized learning experiences.
