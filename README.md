@@ -1,41 +1,25 @@
-# 🕉️ Sanskruti AI
+<p align="center">
+  <img
+    src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Sanskruti%20AI.png"
+    alt="Sanskruti AI"
+    width="100%"
+  />
+</p>
 
 <div align="center">
 
-# **The Cultural Intelligence Platform**
-
-### *Rediscover India's Civilization Through Artificial Intelligence, Interactive Storytelling & Immersive Digital Experiences.*
+**An AI-powered platform that transforms India's civilizational knowledge into immersive, interactive, and intelligent digital experiences.**
 
 <br>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Animation-GSAP%20%7C%20Framer%20Motion-FF4D5A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Media-ImageKit.io-1E88E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</p>
-
-### 🌐 Live Demo
-
-**https://sanskruti-ai.onrender.com**
-
-*"Where timeless wisdom meets modern technology."*
+[🌐 Live Demo](https://sanskruti-ai.onrender.com) •
+[📖 About](#-about-sanskruti-ai) •
+[✨ Features](#-experience-showcase) •
+[🏗️ Architecture](#️-engineering--system-architecture)
 
 </div>
 
 ---
-
 # 📖 About Sanskruti AI
 
 **Sanskruti AI** is an AI-powered Cultural Intelligence Platform that transforms India's civilizational knowledge into an immersive, interactive, and community-driven digital experience.
@@ -319,96 +303,26 @@ Authentication        AI Features          Dynamic Content
 
 # 🧩 Core Architecture
 
-The application follows a modular architecture where every major capability is isolated into its own domain.
+Sanskruti AI follows a modular architecture where each layer has a clearly defined responsibility, making the platform scalable, maintainable, and easy to extend.
 
-### Frontend
-
-Responsible for:
-
-- Interactive UI
-- State Management
-- Routing
-- Animations
-- Storytelling Experience
-- User Interactions
+| Layer | Responsibility |
+|-------|----------------|
+| 🎨 **Frontend** | Interactive UI, state management, routing, animations, and user experience. |
+| ⚙️ **Backend** | Authentication, REST APIs, business logic, content management, and moderation. |
+| 🧠 **AI Engine** | Prompt engineering, contextual scripture intelligence, and structured AI responses. |
+| 🗄️ **Database** | Stores users, cultural content, contributions, progress, and platform data. |
 
 ---
 
-### Backend
+# 🧠 AI Processing Pipeline
 
-Responsible for:
+Unlike traditional chatbots, Sanskruti AI uses AI as a structured knowledge engine that transforms complex cultural queries into contextual and easy-to-understand responses.
 
-- Authentication
-- Authorization
-- Content APIs
-- Contribution Workflow
-- Admin Review
-- Dynamic Publishing
-- Media Management
+<p align="center">
+  <img src="./readme-assets/ai-pipeline.png" width="90%" alt="Sanskruti AI Processing Pipeline">
+</p>
 
----
-
-### AI Layer
-
-Responsible for:
-
-- Scripture Explanation
-- Context-aware Responses
-- Intelligent Prompt Handling
-- Structured Output Generation
-
----
-
-### Database Layer
-
-Stores:
-
-- Users
-- Stories
-- Scriptures
-- Festivals
-- Cultural Reels
-- Contributor Requests
-- Admin Decisions
-- Learning Progress
-
----
-
-# 🧠 AI Architecture
-
-Instead of treating AI as a chatbot, Sanskruti AI integrates AI as a knowledge engine.
-
-```text
-User Question
-
-        │
-
-        ▼
-
-Prompt Engineering Layer
-
-        │
-
-        ▼
-
-Google Gemini
-
-        │
-
-        ▼
-
-Structured Response Processing
-
-        │
-
-        ▼
-
-Beautiful Reading Experience
-```
-
-The prompt layer is designed to generate contextual, structured, and culturally respectful explanations rather than generic responses.
-
----
+The prompt engineering layer enriches every request with cultural context before interacting with Google Gemini, ensuring responses remain relevant, structured, and educational.
 
 # 🔐 Authentication & Authorization
 
