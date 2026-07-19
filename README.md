@@ -81,193 +81,25 @@ The platform is designed around one core philosophy:
 
 ---
 
-> **"Built to preserve civilization through technology—not just document it."**
-> # 🌌 Experience Showcase
-
-Sanskruti AI is designed as a collection of interconnected experiences rather than independent pages. Every module contributes to a single mission—making India's civilizational knowledge interactive, discoverable, and engaging through modern technology.
-
----
-
-# 🧠 AI Scripture Intelligence
-
-> *Understand ancient wisdom through modern AI.*
-
-The Scripture Explainer transforms complex Sanskrit verses, philosophical concepts, and sacred texts into structured, easy-to-understand explanations powered by Google Gemini.
-
-### Highlights
-
-- Multi-level AI explanations
-- Context-aware interpretation
-- Spiritual and philosophical insights
-- Sanskrit understanding
-- Intelligent follow-up responses
-- Popular scripture suggestions
-- Clean distraction-free reading experience
-
-Instead of searching for answers, users can simply ask questions in natural language and receive meaningful explanations within seconds.
-
----
-
-# 🌌 Interactive Cosmic Family Tree
-
-> *Explore the genealogy of creation through an immersive visual experience.*
-
-One of the platform's flagship experiences, the Cosmic Tree transforms traditional lineage charts into a living, interactive knowledge graph.
-
-Users can explore relationships between:
-
-- Brahma
-- Prajapatis
-- Saptarishis
-- Devas
-- Manus
-- Divine descendants
-
-### Experience Features
-
-- Interactive lineage exploration
-- Smooth camera transitions
-- Animated relationship paths
-- Cinematic storytelling
-- Dynamic node highlighting
-- Zoomable exploration
-- Story progression between generations
-
-Rather than reading static family trees, users experience the evolution of creation as an interactive journey.
-
----
-
-# ⏳ Mahayuga Timeline
-
-> *Travel across the four Yugas through an interactive historical timeline.*
-
-The Mahayuga module visualizes the progression of cosmic time—from Satya Yuga to Kali Yuga—using dynamic visual storytelling.
-
-### Includes
-
-- Kali Yuga progress visualization
-- Timeline navigation
-- Duration comparison
-- Dharma progression
-- Historical milestones
-- Interactive learning cards
-
-This transforms abstract concepts into an intuitive visual learning experience.
-
----
-
-# 🪐 Universe Explorer
-
-> *Navigate the fourteen realms of Vedic cosmology.*
-
-The Universe Explorer presents the fourteen Lokas through an animated cosmic interface, allowing users to discover each realm interactively.
-
-Each Loka contains:
-
-- Realm description
-- Ruler
-- Residents
-- Sacred significance
-- Related mythology
-- Spiritual references
-
-The interface uses animated transitions and rotating orbital visuals to create a cinematic exploration experience.
-
----
-
-# 📖 Vedic Storyverse
-
-> *Stories become interactive journeys.*
-
-Instead of presenting mythology as plain text, Storyverse delivers narratives through guided storytelling experiences.
-
-Stories are structured into chapters with immersive transitions, allowing users to progress naturally through each narrative.
-
-Designed to feel closer to an interactive documentary than a traditional article.
-
----
-
-# 📅 Festival Intelligence
-
-> *Discover the traditions behind every celebration.*
-
-Festival Intelligence goes beyond festival dates by providing cultural significance, mythology, rituals, regional variations, and historical context.
-
-Users can explore festivals through an organized and searchable knowledge experience.
-
----
-
-# 💡 Knowledge Capsules
-
-> *Learn one concept at a time.*
-
-Knowledge Capsules deliver concise, focused explanations of important cultural concepts, making learning accessible without overwhelming users.
-
-Ideal for quick learning sessions and daily knowledge exploration.
-
----
-
-# 🎙️ Voice Q&A
-
-> *Listen as well as learn.*
-
-The platform includes voice-enabled interactions that create a more immersive spiritual learning environment.
-
-Combined with ambient chanting, the experience feels conversational rather than instructional.
-
----
-
-# 🎬 Cultural Reels
-
-> *Short-form learning optimized for modern audiences.*
-
-Educational content is delivered through vertically scrollable reels, enabling users to consume cultural knowledge in an engaging format.
-
-Optimized using **ImageKit.io**, reels benefit from intelligent media delivery for smooth playback and faster loading.
-
-### Highlights
-
-- Fast media streaming
-- Adaptive image optimization
-- Smooth scrolling experience
-- Dynamic content management
-- Mobile-first interaction
-
----
-
-# 🏆 Gamification & Learning Journey
-
-Learning becomes more engaging through a progression-based reward system.
-
-Users can build their cultural journey by earning:
-
-- Karma Points
-- Daily Streaks
-- Quiz Scores
-- Learning Progress
-- Saved Wisdom
-- Achievement Badges
-
-These elements encourage continuous exploration while making learning enjoyable.
-
----
-
-# 👤 Personalized Explorer Profile
-
-Every user receives a personalized cultural journey dashboard.
-
-The profile tracks:
-
-- Scriptures explored
-- Stories completed
-- Festivals discovered
-- Reels watched
-- Quiz performance
-- Learning streaks
-- Karma progression
-- Saved knowledge
-
-This creates a persistent learning experience that evolves with every interaction.
+# 🌌 Experience Showcase
+
+Sanskruti AI is a collection of immersive, AI-powered experiences that transform India's civilizational knowledge into an interactive digital journey. Each module is designed to educate, inspire, and engage through modern technology.
+
+| Experience | Description |
+|------------|-------------|
+| 🧠 **AI Scripture Intelligence** | Context-aware AI explanations for scriptures, philosophy, and spiritual concepts powered by Google Gemini. |
+| 🌳 **Interactive Cosmic Family Tree** | Explore mythological lineages through an animated, cinematic knowledge graph. |
+| ⏳ **Mahayuga Timeline** | Visualize the progression of the four Yugas through an interactive historical timeline. |
+| 🪐 **Universe Explorer** | Navigate the **14 Lokas** with immersive cosmic visuals and cultural insights. |
+| 📖 **Vedic Storyverse** | Experience mythology through chapter-based, interactive storytelling. |
+| 📅 **Festival Intelligence** | Discover festivals, rituals, mythology, and cultural significance in one place. |
+| 💡 **Knowledge Capsules** | Learn bite-sized cultural concepts through concise educational content. |
+| 🎙️ **Voice Q&A** | Interact naturally using AI-powered voice conversations. |
+| 🎬 **Cultural Reels** | Consume short-form educational content with optimized media delivery. |
+| 🏆 **Gamified Learning** | Track progress through Karma Points, achievements, quizzes, and learning streaks. |
+| 👤 **Personalized Dashboard** | Monitor learning history, saved content, achievements, and personal growth. |
+
+> **Every experience is crafted to make learning India's cultural heritage interactive, immersive, and memorable rather than static and text-heavy.**
 
 ---
 
@@ -427,79 +259,34 @@ Benefits include:
 
 ---
 
-### ImageKit Media Pipeline
+### 🖼️ Media Delivery
 
-Media assets are optimized using ImageKit for efficient delivery.
+ImageKit powers the platform's media pipeline, optimizing images and short-form content for fast, reliable delivery across devices.
 
-```text
-Upload
+<p align="center">
+  <img src="./readme-assets/imagekit-pipeline.png" width="90%" alt="ImageKit Media Pipeline">
+</p>
 
-   │
+**Highlights**
 
-   ▼
-
-ImageKit Processing
-
-   │
-
-   ▼
-
-CDN Distribution
-
-   │
-
-   ▼
-
-Optimized Rendering
-```
-
-This ensures:
-
-- Faster reel playback
-- Optimized images
-- Adaptive delivery
-- Reduced bandwidth usage
+- ⚡ CDN-powered asset delivery
+- 🖼️ Automatic image optimization
+- 🎥 Smooth reel streaming
+- 📱 Responsive media rendering
 
 ---
 
 # 🎬 Motion & Interaction Engine
 
-Sanskruti AI combines multiple animation technologies to create an immersive experience.
+Animations are designed to enhance storytelling and exploration, creating a cinematic experience rather than decorative effects.
 
-### GSAP
+| Technology | Purpose |
+|------------|---------|
+| 🎞️ **GSAP** | Scroll animations, cinematic timelines, and complex motion sequences. |
+| ✨ **Framer Motion** | Page transitions, interactive components, and micro-interactions. |
+| 🌌 **Custom Animations** | Cosmic Tree traversal, Universe Explorer, timeline progression, and immersive visual effects. |
 
-Used for:
-
-- Cinematic timelines
-- Scroll-based storytelling
-- Complex sequence animations
-- Camera transitions
-
----
-
-### Framer Motion
-
-Used for:
-
-- Page transitions
-- Interactive components
-- Micro-interactions
-- Motion-driven navigation
-
----
-
-### Custom Animation Systems
-
-Additional interaction systems power:
-
-- Cosmic Tree traversal
-- Animated relationship paths
-- Rotating Universe Explorer
-- Timeline progression
-- Dynamic hover effects
-- Ambient visual transitions
-
-Every animation is designed to enhance storytelling rather than serve as decoration.
+> **Every animation is intentional—guiding users through stories, relationships, and cultural experiences while maintaining a smooth and engaging interface.**
 
 ---
 
