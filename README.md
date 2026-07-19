@@ -161,65 +161,15 @@ Sanskruti AI follows a modular architecture where each layer has a clearly defin
 
 # 🧠 AI Processing Pipeline
 
-Unlike traditional chatbots, Sanskruti AI uses AI as a structured knowledge engine that transforms complex cultural queries into contextual and easy-to-understand responses.
+Sanskruti AI integrates AI as a **knowledge engine** rather than a conventional chatbot. Every user query is enriched with cultural context before being processed by Google Gemini, enabling accurate, structured, and educational responses.
 
 <p align="center">
-  <img src="./readme-assets/ai-pipeline.png" width="90%" alt="Sanskruti AI Processing Pipeline">
+  <img src="./readme-assets/ai-processing-pipeline.png"
+       alt="Sanskruti AI Processing Pipeline"
+       width="90%">
 </p>
 
-The prompt engineering layer enriches every request with cultural context before interacting with Google Gemini, ensuring responses remain relevant, structured, and educational.
-
-# 🔐 Authentication & Authorization
-
-The platform implements **Role-Based Access Control (RBAC)** to ensure secure access across different user roles.
-
-### Visitor
-
-- Explore platform
-- Read public content
-- Browse knowledge
-
----
-
-### Registered User
-
-- Save progress
-- Earn Karma Points
-- Track learning journey
-- Bookmark content
-- Participate in quizzes
-
----
-
-### Contributor
-
-Contributors can submit:
-
-- Stories
-- Scriptures
-- Festivals
-- Knowledge Capsules
-- Reels
-- Educational Content
-
-Submitted content remains pending until reviewed.
-
----
-
-### Administrator
-
-Administrators can:
-
-- Review submissions
-- Approve or reject content
-- Publish instantly
-- Manage contributors
-- Moderate the platform
-- Control dynamic content
-- Manage media assets
-
----
-
+The generated responses are seamlessly integrated into interactive modules such as Scripture Intelligence, Storyverse, Voice Q&A, and personalized learning experiences.
 # 🤝 Community Contribution Workflow
 
 Sanskruti AI embraces a community-first approach to preserving and expanding cultural knowledge. Inspired by modern collaborative platforms, every contribution passes through a structured moderation pipeline to ensure authenticity, quality, and consistency before becoming part of the platform.
