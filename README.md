@@ -446,35 +446,20 @@ If you'd like to contribute, feel free to open an issue, suggest an improvement,
 
 ---
 
-## 👨‍💻 Developer
-
-**Rishabh Jagtap**  
-Full Stack Developer • AI Engineer • MERN Stack Developer
-
-Building scalable full-stack applications and AI-powered products with a focus on modern web technologies, performance, and user experience.
-
-<p>
-  <a href="https://github.com/Rishabh-749">GitHub</a> •
-  <a href="https://www.linkedin.com/in/rishabh-jagtap-9971b0312/">LinkedIn</a> •
-  Portfolio (Coming Soon)
+<p align="center">
+  <img
+    src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/END.png"
+    alt="Sanskruti AI Footer"
+    width="100%"
+  />
 </p>
-
----
 
 <div align="center">
 
-### 🕉️ Sanskruti AI
+### 🙏 Thank you for exploring Sanskruti AI
 
-*The Cultural Intelligence Platform*
+If you found this project inspiring or valuable, consider giving it a ⭐ on GitHub.
 
-**Preserving India's civilizational heritage through Artificial Intelligence and immersive digital experiences.**
-
-⭐ **If you enjoyed this project, consider giving it a Star.**
-
-</div>
-
-**Thank you for visiting Sanskruti AI.**
-
-Made with ❤️ by **Rishabh Jagtap**
+**Made with passion by Rishabh Jagtap**
 
 </div>
