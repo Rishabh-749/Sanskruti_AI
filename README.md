@@ -839,51 +839,6 @@ http://localhost:5173
 
 ---
 
-# 🛣 Roadmap
-
-The platform is continuously evolving.
-
-### AI
-
-- Intelligent Cultural Tutor
-- Personalized Learning Paths
-- Multi-Agent Knowledge System
-- AI Voice Conversations
-- Contextual Recommendations
-
----
-
-### Knowledge Platform
-
-- Regional Language Support
-- Knowledge Graph Expansion
-- Temple Explorer
-- Historical Timeline Expansion
-- Ancient Literature Library
-
----
-
-### Community
-
-- Community Discussions
-- Contributor Reputation System
-- Contributor Badges
-- Leaderboards
-- Community Challenges
-
----
-
-### Engineering
-
-- Progressive Web App
-- Offline Support
-- API Versioning
-- Docker Deployment
-- CI/CD Pipeline
-- Performance Monitoring
-
----
-
 # 🤝 Contributing
 
 Sanskruti AI follows a moderated contribution workflow inspired by collaborative open-source communities.
