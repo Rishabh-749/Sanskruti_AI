@@ -378,62 +378,74 @@ http://localhost:5173
 
 # 📸 Platform Preview
 
-> Replace the placeholders below with actual screenshots after deployment.
+A glimpse into the immersive experiences and intelligent features that power **Sanskruti AI**.
 
-## 🏠 Dashboard
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-<img src="./screenshots/dashboard.png"/>
-</p>
+### 🏠 Dashboard
 
----
+<img src="./screenshots/dashboard.png" width="100%"/>
 
-## 🧠 AI Scripture Intelligence
+</td>
 
-<p align="center">
-<img src="./screenshots/scripture.png"/>
-</p>
+<td align="center" width="50%">
 
----
+### 🧠 AI Scripture Intelligence
 
-## 🌌 Cosmic Family Tree
+<img src="./screenshots/scripture.png" width="100%"/>
 
-<p align="center">
-<img src="./screenshots/family-tree.png"/>
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">
 
-## 🪐 Universe Explorer
+### 🌳 Cosmic Family Tree
 
-<p align="center">
-<img src="./screenshots/lokas.png"/>
-</p>
+<img src="./screenshots/family-tree.png" width="100%"/>
 
----
+</td>
 
-## 📖 Storyverse
+<td align="center">
 
-<p align="center">
-<img src="./screenshots/storyverse.png"/>
-</p>
+### 🪐 Universe Explorer
 
----
+<img src="./screenshots/lokas.png" width="100%"/>
 
-## 🎬 Cultural Reels
+</td>
+</tr>
 
-<p align="center">
-<img src="./screenshots/reels.png"/>
-</p>
+<tr>
+<td align="center">
 
----
+### 📖 Storyverse
 
-## 👑 Admin Dashboard
+<img src="./screenshots/storyverse.png" width="100%"/>
 
-<p align="center">
-<img src="./screenshots/admin.png"/>
-</p>
+</td>
 
+<td align="center">
+
+### 🎬 Cultural Reels
+
+<img src="./screenshots/reels.png" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 👑 Admin Dashboard
+
+<img src="./screenshots/admin.png" width="70%"/>
+
+</td>
+</tr>
+
+</table>
 ---
 
 # 🤝 Contributing
