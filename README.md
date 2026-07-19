@@ -185,28 +185,14 @@ Sanskruti AI embraces a community-first approach to preserving and expanding cul
 
 # ⚡ Performance Engineering
 
-Performance is treated as a core design principle throughout the platform.
+Sanskruti AI is optimized to deliver a fast, responsive, and seamless user experience through intelligent caching and efficient media delivery.
 
-### Redis Caching
+| Technology | Purpose |
+|------------|---------|
+| 🔴 **Redis** | Caches frequently accessed data to reduce database queries, improve API response times, and enhance scalability. |
+| 🖼️ **ImageKit** | Delivers optimized images and media through a global CDN, ensuring faster loading, adaptive optimization, and smooth content rendering across devices. |
 
-Redis is used to cache frequently accessed data, reducing repeated database queries and improving response times for high-demand content.
-
-Benefits include:
-
-- Faster API responses
-- Reduced database load
-- Better scalability
-- Improved user experience
-
----
-
-### 🖼️ Media Delivery
-
-ImageKit powers the platform's media pipeline, optimizing images and short-form content for fast, reliable delivery across devices.
-
-<p align="center">
-  <img src="./readme-assets/imagekit-pipeline.png" width="90%" alt="ImageKit Media Pipeline">
-</p>
+> **Every optimization is focused on minimizing latency while delivering a smooth, immersive experience across the platform.**
 
 **Highlights**
 
@@ -452,130 +438,41 @@ http://localhost:5173
 
 # 🤝 Contributing
 
-Sanskruti AI follows a moderated contribution workflow inspired by collaborative open-source communities.
+Contributions are always welcome. Whether you're improving the codebase, enhancing the user experience, or enriching cultural content, every contribution helps make Sanskruti AI a more meaningful platform.
 
-### Contribution Process
+If you'd like to contribute, feel free to open an issue, suggest an improvement, or submit a pull request.
 
-```text
-Fork Repository
-
-      │
-
-      ▼
-
-Create Feature Branch
-
-      │
-
-      ▼
-
-Develop Changes
-
-      │
-
-      ▼
-
-Submit Pull Request
-
-      │
-
-      ▼
-
-Project Review
-
-      │
-
-      ▼
-
-Merged into Platform
-```
-
-For platform content:
-
-```text
-Contributor
-
-      │
-
-      ▼
-
-Create Story / Festival / Reel
-
-      │
-
-      ▼
-
-Submit
-
-      │
-
-      ▼
-
-Admin Review
-
-      │
-
- ┌────┴─────┐
- │          │
- ▼          ▼
-Reject    Approve
-
-            │
-
-            ▼
-
-Live Instantly
-```
-
-We welcome developers, designers, researchers, historians, and contributors passionate about preserving cultural heritage through technology.
+> **Together, we're preserving India's civilizational heritage through technology.**
 
 ---
 
-# 👨‍💻 Author
+---
+
+# 👨‍💻 About the Developer
 
 <div align="center">
 
 ## **Rishabh Jagtap**
 
-**Full Stack Developer • AI Enthusiast • UI/UX Engineer**
+**Full Stack Developer • AI Engineer • MERN Stack Developer**
 
-Building immersive digital experiences powered by Artificial Intelligence, modern frontend engineering, and scalable backend systems.
+Passionate about building scalable full-stack applications, AI-powered platforms, and immersive digital experiences that combine thoughtful design with modern engineering.
 
-### Connect
+<br>
 
-🐙 GitHub
+<a href="https://github.com/Rishabh-749">
+  <img src="https://img.shields.io/badge/GitHub-@Rishabh--749-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-https://github.com/Rishabh-749
+<a href="https://www.linkedin.com/in/rishabh-jagtap-9971b0312/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Jagtap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/rishabh-jagtap-9971b0312/
-
-🌐 Portfolio
-
-Coming Soon...
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
-
----
-
-# 🙏 Acknowledgements
-
-Special thanks to the open-source technologies powering Sanskruti AI.
-
-- React
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
-- Redis
-- Google Gemini
-- GSAP
-- Framer Motion
-- ImageKit
-- Tailwind CSS
-- shadcn/ui
-- Radix UI
 
 ---
 
@@ -585,9 +482,13 @@ Special thanks to the open-source technologies powering Sanskruti AI.
 
 ### *The Cultural Intelligence Platform*
 
-*"Preserving civilization through technology, storytelling, and artificial intelligence."*
+*Bridging India's timeless cultural heritage with the power of Artificial Intelligence, immersive storytelling, and modern web technologies.*
 
-⭐ **If you found this project valuable, consider giving it a star on GitHub.**
+<br>
+
+⭐ **If this project inspired you or added value, consider giving it a Star.**
+
+**Thank you for visiting Sanskruti AI.**
 
 Made with ❤️ by **Rishabh Jagtap**
 
