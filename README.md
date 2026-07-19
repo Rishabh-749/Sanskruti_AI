@@ -103,13 +103,6 @@ Sanskruti AI is a collection of immersive, AI-powered experiences that transform
 
 ---
 
-# 🎬 Designed for Immersion
-
-Sanskruti AI was never intended to feel like a traditional website.
-
-Every interaction—from navigation and storytelling to visual transitions and ambient audio—has been carefully crafted to create an experience that feels cinematic, immersive, and memorable.
-
-Instead of browsing information, users explore a living digital civilization.
 # 🏗️ Engineering & System Architecture
 
 Sanskruti AI is designed as a modular, full-stack platform where AI, content management, real-time publishing, and immersive user experiences work together through a scalable architecture.
@@ -258,29 +251,6 @@ Sanskruti-AI/
 ├── assets/
 ├── README.md
 ```
-
----
-
-# 🚀 Design Principles
-
-The architecture of Sanskruti AI is built around four engineering principles:
-
-### 🧩 Modular
-
-Every feature is isolated, reusable, and independently maintainable.
-
-### ⚡ Performant
-
-Optimized rendering, caching, and media delivery ensure a smooth experience across devices.
-
-### 🤝 Collaborative
-
-The contributor workflow allows the community to expand the platform while preserving quality through moderation.
-
-### 🌍 Scalable
-
-The architecture is designed to accommodate new AI modules, knowledge domains, and interactive experiences without major structural changes.
-
 ---
 
 > **"Great software isn't defined by the number of features it has, but by how thoughtfully those features are engineered to work together."**
