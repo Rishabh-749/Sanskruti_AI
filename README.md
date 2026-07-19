@@ -440,7 +440,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 👑 Admin Dashboard
 
-<img src="./screenshots/admin.png" width="70%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Admin_DashBoard.jpeg" width="70%"/>
 
 </td>
 </tr>
