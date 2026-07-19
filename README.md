@@ -446,10 +446,6 @@ If you'd like to contribute, feel free to open an issue, suggest an improvement,
 
 ---
 
----
-
----
-
 ## 👨‍💻 Developer
 
 **Rishabh Jagtap**  
