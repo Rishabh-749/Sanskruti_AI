@@ -448,45 +448,34 @@ If you'd like to contribute, feel free to open an issue, suggest an improvement,
 
 ---
 
-# 👨‍💻 About the Developer
+---
 
-<div align="center">
+## 👨‍💻 Developer
 
-## **Rishabh Jagtap**
+**Rishabh Jagtap**  
+Full Stack Developer • AI Engineer • MERN Stack Developer
 
-**Full Stack Developer • AI Engineer • MERN Stack Developer**
+Building scalable full-stack applications and AI-powered products with a focus on modern web technologies, performance, and user experience.
 
-Passionate about building scalable full-stack applications, AI-powered platforms, and immersive digital experiences that combine thoughtful design with modern engineering.
-
-<br>
-
-<a href="https://github.com/Rishabh-749">
-  <img src="https://img.shields.io/badge/GitHub-@Rishabh--749-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rishabh-jagtap-9971b0312/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Jagtap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
+<p>
+  <a href="https://github.com/Rishabh-749">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rishabh-jagtap-9971b0312/">LinkedIn</a> •
+  Portfolio (Coming Soon)
+</p>
 
 ---
 
 <div align="center">
 
-# 🕉️ Sanskruti AI
+### 🕉️ Sanskruti AI
 
-### *The Cultural Intelligence Platform*
+*The Cultural Intelligence Platform*
 
-*Bridging India's timeless cultural heritage with the power of Artificial Intelligence, immersive storytelling, and modern web technologies.*
+**Preserving India's civilizational heritage through Artificial Intelligence and immersive digital experiences.**
 
-<br>
+⭐ **If you enjoyed this project, consider giving it a Star.**
 
-⭐ **If this project inspired you or added value, consider giving it a Star.**
+</div>
 
 **Thank you for visiting Sanskruti AI.**
 
