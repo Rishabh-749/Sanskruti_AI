@@ -1,184 +1,1028 @@
+# 🕉️ Sanskruti AI
+
 <div align="center">
 
-# 🕉️ S A N S K R U T I   A I 
+# **The Cultural Intelligence Platform**
 
-**B r i d g i n g   A n c i e n t   W i s d o m   &   M o d e r n   I n t e l l i g e n c e**
+### *Rediscover India's Civilization Through Artificial Intelligence, Interactive Storytelling & Immersive Digital Experiences.*
 
-<br />
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_19-3178C6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Animation-GSAP%20%7C%20Framer%20Motion-FF4D5A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Media-ImageKit.io-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
 </p>
 
-*An enterprise-grade, immersive digital sanctuary where generative AI, 3D spatial computing, and geospatial mapping breathe life into millennia of cultural heritage.*
+### 🌐 Live Demo
 
-<br />
+**https://sanskruti-ai.onrender.com**
+
+*"Where timeless wisdom meets modern technology."*
 
 </div>
 
 ---
 
-> *"The highest education is that which does not merely give us information but makes our life in harmony with all existence."*
+# 📖 About Sanskruti AI
+
+**Sanskruti AI** is an AI-powered Cultural Intelligence Platform that transforms India's civilizational knowledge into an immersive, interactive, and community-driven digital experience.
+
+Rather than presenting cultural knowledge as static articles, the platform enables users to **explore**, **visualize**, **listen**, **interact**, and **learn** through AI-powered conversations, cinematic storytelling, interactive cosmic visualizations, dynamic timelines, and modern knowledge discovery experiences.
+
+Built as a scalable full-stack application, Sanskruti AI combines **Artificial Intelligence**, **modern frontend engineering**, **real-time content management**, and **immersive user experience** to make ancient knowledge accessible to everyone.
 
 ---
 
-## 🌟 THE VISION
+# 🌟 Vision
 
-**Sanskruti AI** is not just an application; it is a digital renaissance. Designed for scale and built with uncompromising engineering standards, it seamlessly translates the profound depth of ancient traditions, scriptures, and genealogies into a highly interactive, state-of-the-art Web3-ready architecture.
+Technology has transformed how we consume information, yet one of humanity's richest civilizations is still largely experienced through static books, disconnected articles, and fragmented resources.
 
-Targeting the engineering rigor expected by top-tier tech organizations (FAANG/MANG), Sanskruti AI demonstrates mastery over **Complex System Architecture**, **LLM Contextual Prompt Engineering**, **WebGL 3D Rendering**, and **Real-Time Data Orchestration**. 
+Sanskruti AI reimagines this experience by creating a living digital ecosystem where scriptures, history, festivals, mythology, philosophy, and cultural heritage become interactive journeys rather than passive reading.
 
----
-
-## ✨ PILLARS OF INNOVATION
-
-### 🛕 The Divine Oracle *(AI & Voice Integration)*
-By harnessing the **Google Gemini LLM**, we've created a contextual, memory-aware intelligence that decodes ancient scriptures. Featuring **Web Speech API integration**, users can engage in natural, voice-driven philosophical discourse.
-
-### 🌌 Cosmic Cartography *(3D Spatial & Mapping)*
-Step into the *Storyverse*. Powered by **Three.js** and **React Three Fiber**, the UI breaks the boundaries of 2D planes, offering interactive Loka Maps and cosmic visualizations. Paired with **Leaflet**, we map historical and spiritual monuments with pinpoint geospatial accuracy.
-
-### 🧬 Ancestral Threads *(Graph-Based Lineages)*
-Complex mythologies require complex data structures. Utilizing **React Flow**, Sanskruti AI renders intricate genealogies and divine lineages as interactive, deeply traversable node graphs.
-
-### ☸️ The Dharmic Wheel *(Algorithmic Calendar)*
-A highly optimized, algorithmically driven festival engine that calculates precise lunar and solar events, offering automated notifications and deep cultural context for every significant date.
-
-### 🎬 Immersive Enlightenment *(Gamification & Media Streams)*
-A custom implementation of infinite-scroll **Cultural Reels** (fetching optimized assets via Cloudinary) and state-driven **Knowledge Capsules/Quizzes**, transforming passive reading into active, gamified retention.
-
-### 🛡️ The Sanctum *(Admin & Role-Based Access Control)*
-A highly secure, JWT-authenticated dashboard allowing total control over the platform's ecosystem. Features an advanced moderation pipeline for user-contributed content and robust platform analytics.
+The goal is not only to preserve knowledge—but to make it engaging, accessible, and meaningful for future generations.
 
 ---
 
-## 🏗️ ARCHITECTURAL MASTERY
+# ✨ Why Sanskruti AI?
 
-Designed using a strict **Model-View-Controller (MVC)** pattern on the backend and a highly modular, hook-driven architecture on the frontend, ensuring infinite scalability and fault tolerance.
+Unlike traditional educational platforms, Sanskruti AI combines Artificial Intelligence, immersive storytelling, modern web technologies, and collaborative knowledge creation into a single unified ecosystem.
+
+The platform is designed around one core philosophy:
+
+> **Don't just read history. Experience it.**
+
+---
+
+# 🚀 Product Highlights
+
+- 🧠 AI-powered Scripture Intelligence with contextual explanations
+- 🌌 Interactive Cosmic Family Tree with cinematic navigation
+- 🪐 Universe Explorer featuring all **14 Lokas**
+- ⏳ Mahayuga Timeline with interactive visualization
+- 📖 Storyverse for immersive cultural storytelling
+- 🎙️ Voice-powered spiritual conversations
+- 📅 Intelligent Festival Explorer
+- 🎥 Cultural Reels with optimized media delivery
+- 🤝 Community-driven contribution system inspired by GitHub
+- 👑 Real-time Admin Moderation & Publishing Workflow
+- ⚡ Redis-powered caching for faster content delivery
+- 🎬 GSAP & Framer Motion powered cinematic animations
+- 📱 Responsive experience across desktop and mobile
+
+---
+
+> **"Built to preserve civilization through technology—not just document it."**
+> # 🌌 Experience Showcase
+
+Sanskruti AI is designed as a collection of interconnected experiences rather than independent pages. Every module contributes to a single mission—making India's civilizational knowledge interactive, discoverable, and engaging through modern technology.
+
+---
+
+# 🧠 AI Scripture Intelligence
+
+> *Understand ancient wisdom through modern AI.*
+
+The Scripture Explainer transforms complex Sanskrit verses, philosophical concepts, and sacred texts into structured, easy-to-understand explanations powered by Google Gemini.
+
+### Highlights
+
+- Multi-level AI explanations
+- Context-aware interpretation
+- Spiritual and philosophical insights
+- Sanskrit understanding
+- Intelligent follow-up responses
+- Popular scripture suggestions
+- Clean distraction-free reading experience
+
+Instead of searching for answers, users can simply ask questions in natural language and receive meaningful explanations within seconds.
+
+---
+
+# 🌌 Interactive Cosmic Family Tree
+
+> *Explore the genealogy of creation through an immersive visual experience.*
+
+One of the platform's flagship experiences, the Cosmic Tree transforms traditional lineage charts into a living, interactive knowledge graph.
+
+Users can explore relationships between:
+
+- Brahma
+- Prajapatis
+- Saptarishis
+- Devas
+- Manus
+- Divine descendants
+
+### Experience Features
+
+- Interactive lineage exploration
+- Smooth camera transitions
+- Animated relationship paths
+- Cinematic storytelling
+- Dynamic node highlighting
+- Zoomable exploration
+- Story progression between generations
+
+Rather than reading static family trees, users experience the evolution of creation as an interactive journey.
+
+---
+
+# ⏳ Mahayuga Timeline
+
+> *Travel across the four Yugas through an interactive historical timeline.*
+
+The Mahayuga module visualizes the progression of cosmic time—from Satya Yuga to Kali Yuga—using dynamic visual storytelling.
+
+### Includes
+
+- Kali Yuga progress visualization
+- Timeline navigation
+- Duration comparison
+- Dharma progression
+- Historical milestones
+- Interactive learning cards
+
+This transforms abstract concepts into an intuitive visual learning experience.
+
+---
+
+# 🪐 Universe Explorer
+
+> *Navigate the fourteen realms of Vedic cosmology.*
+
+The Universe Explorer presents the fourteen Lokas through an animated cosmic interface, allowing users to discover each realm interactively.
+
+Each Loka contains:
+
+- Realm description
+- Ruler
+- Residents
+- Sacred significance
+- Related mythology
+- Spiritual references
+
+The interface uses animated transitions and rotating orbital visuals to create a cinematic exploration experience.
+
+---
+
+# 📖 Vedic Storyverse
+
+> *Stories become interactive journeys.*
+
+Instead of presenting mythology as plain text, Storyverse delivers narratives through guided storytelling experiences.
+
+Stories are structured into chapters with immersive transitions, allowing users to progress naturally through each narrative.
+
+Designed to feel closer to an interactive documentary than a traditional article.
+
+---
+
+# 📅 Festival Intelligence
+
+> *Discover the traditions behind every celebration.*
+
+Festival Intelligence goes beyond festival dates by providing cultural significance, mythology, rituals, regional variations, and historical context.
+
+Users can explore festivals through an organized and searchable knowledge experience.
+
+---
+
+# 💡 Knowledge Capsules
+
+> *Learn one concept at a time.*
+
+Knowledge Capsules deliver concise, focused explanations of important cultural concepts, making learning accessible without overwhelming users.
+
+Ideal for quick learning sessions and daily knowledge exploration.
+
+---
+
+# 🎙️ Voice Q&A
+
+> *Listen as well as learn.*
+
+The platform includes voice-enabled interactions that create a more immersive spiritual learning environment.
+
+Combined with ambient chanting, the experience feels conversational rather than instructional.
+
+---
+
+# 🎬 Cultural Reels
+
+> *Short-form learning optimized for modern audiences.*
+
+Educational content is delivered through vertically scrollable reels, enabling users to consume cultural knowledge in an engaging format.
+
+Optimized using **ImageKit.io**, reels benefit from intelligent media delivery for smooth playback and faster loading.
+
+### Highlights
+
+- Fast media streaming
+- Adaptive image optimization
+- Smooth scrolling experience
+- Dynamic content management
+- Mobile-first interaction
+
+---
+
+# 🏆 Gamification & Learning Journey
+
+Learning becomes more engaging through a progression-based reward system.
+
+Users can build their cultural journey by earning:
+
+- Karma Points
+- Daily Streaks
+- Quiz Scores
+- Learning Progress
+- Saved Wisdom
+- Achievement Badges
+
+These elements encourage continuous exploration while making learning enjoyable.
+
+---
+
+# 👤 Personalized Explorer Profile
+
+Every user receives a personalized cultural journey dashboard.
+
+The profile tracks:
+
+- Scriptures explored
+- Stories completed
+- Festivals discovered
+- Reels watched
+- Quiz performance
+- Learning streaks
+- Karma progression
+- Saved knowledge
+
+This creates a persistent learning experience that evolves with every interaction.
+
+---
+
+# 🎬 Designed for Immersion
+
+Sanskruti AI was never intended to feel like a traditional website.
+
+Every interaction—from navigation and storytelling to visual transitions and ambient audio—has been carefully crafted to create an experience that feels cinematic, immersive, and memorable.
+
+Instead of browsing information, users explore a living digital civilization.
+# 🏗️ Engineering & System Architecture
+
+Sanskruti AI is designed as a modular, full-stack platform where AI, content management, real-time publishing, and immersive user experiences work together through a scalable architecture.
+
+Instead of tightly coupling every feature, the platform separates responsibilities into independent modules, making it easier to extend, maintain, and evolve.
+
+---
+
+# ⚙️ High-Level Architecture
 
 ```text
- ┌────────────────────────────────────────────────────────────┐
- │                  THE PRESENTATION LAYER                    │
- │    React 19 | Zustand | Three.js | GSAP | Tailwind CSS     │
- └────────────────────────────┬───────────────────────────────┘
-                              │
-                    REST API (Zod Validation) 
-                              │
- ┌────────────────────────────▼───────────────────────────────┐
- │                     THE LOGIC LAYER                        │
- │           Node.js | Express | JWT | Google Gemini AI       │
- └────────────────────────────┬───────────────────────────────┘
-                              │
-                    Optimized Data Streams
-                              │
- ┌────────────────────────────▼───────────────────────────────┐
- │                   THE PERSISTENCE LAYER                    │
- │         MongoDB (Mongoose)  |  Cloudinary (Media)          │
- └────────────────────────────────────────────────────────────┘
+                          User
+                            │
+                            ▼
+                  React + Vite Frontend
+                            │
+     ┌──────────────────────┼──────────────────────┐
+     │                      │                      │
+     ▼                      ▼                      ▼
+Authentication        AI Features          Dynamic Content
+     │                      │                      │
+     └──────────────┬───────┴──────────────┬───────┘
+                    ▼                      ▼
+              Express.js REST API     Redis Cache
+                    │                      │
+                    └──────────────┬───────┘
+                                   ▼
+                              MongoDB Atlas
+                                   │
+                    ┌──────────────┴──────────────┐
+                    ▼                             ▼
+             ImageKit CDN                  Google Gemini AI
 ```
 
-<br />
+---
 
-| Domain | Core Technologies |
-| :--- | :--- |
-| **Frontend Foundation** | React 19, TypeScript, Vite, React Router DOM |
-| **State Orchestration** | Zustand, TanStack React Query |
-| **Aesthetic Design** | Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, GSAP |
-| **Spatial & Mapping** | Three.js, React Three Fiber, Leaflet, React Flow |
-| **Backend Engine** | Node.js, Express, TypeScript, Zod |
-| **Data & Storage** | MongoDB, Mongoose, Cloudinary, Multer |
-| **Artificial Intelligence** | Google Generative AI (Gemini) |
-| **Security & Auth** | JWT, bcryptjs, Role-Based Access Control (RBAC) |
+# 🧩 Core Architecture
+
+The application follows a modular architecture where every major capability is isolated into its own domain.
+
+### Frontend
+
+Responsible for:
+
+- Interactive UI
+- State Management
+- Routing
+- Animations
+- Storytelling Experience
+- User Interactions
 
 ---
 
-## ⚙️ THE TECHNICAL SYMPHONY
+### Backend
 
-**1. Context-Injected LLM Pipelines**  
-When interacting with the Scripture Explainer, the backend dynamically injects dense historical context into the prompt schema before querying Gemini. The LLM is strictly constrained to return structured data (JSON/Markdown), which the frontend parses natively.
+Responsible for:
 
-**2. Fluid Asynchronous State Management**  
-Using Zustand combined with TanStack Query, the frontend handles complex caching, optimistic UI updates, and seamless background fetching, ensuring the 3D canvases and Reels never drop frames.
-
-**3. Robust Data Validation & Security**  
-Every API endpoint is shielded by JWT middleware and rigorously typed payload validation (via Zod), ensuring data integrity from the React client down to the MongoDB documents.
+- Authentication
+- Authorization
+- Content APIs
+- Contribution Workflow
+- Admin Review
+- Dynamic Publishing
+- Media Management
 
 ---
 
-## 🔮 THE SACRED GATEWAY *(Installation)*
+### AI Layer
 
-Step into the development ecosystem. Ensure you have **Node.js (v18+)**, a **MongoDB instance**, and your **API Keys** (Cloudinary & Google Gemini).
+Responsible for:
 
-### 1. Awaken the Backend
+- Scripture Explanation
+- Context-aware Responses
+- Intelligent Prompt Handling
+- Structured Output Generation
+
+---
+
+### Database Layer
+
+Stores:
+
+- Users
+- Stories
+- Scriptures
+- Festivals
+- Cultural Reels
+- Contributor Requests
+- Admin Decisions
+- Learning Progress
+
+---
+
+# 🧠 AI Architecture
+
+Instead of treating AI as a chatbot, Sanskruti AI integrates AI as a knowledge engine.
+
+```text
+User Question
+
+        │
+
+        ▼
+
+Prompt Engineering Layer
+
+        │
+
+        ▼
+
+Google Gemini
+
+        │
+
+        ▼
+
+Structured Response Processing
+
+        │
+
+        ▼
+
+Beautiful Reading Experience
+```
+
+The prompt layer is designed to generate contextual, structured, and culturally respectful explanations rather than generic responses.
+
+---
+
+# 🔐 Authentication & Authorization
+
+The platform implements **Role-Based Access Control (RBAC)** to ensure secure access across different user roles.
+
+### Visitor
+
+- Explore platform
+- Read public content
+- Browse knowledge
+
+---
+
+### Registered User
+
+- Save progress
+- Earn Karma Points
+- Track learning journey
+- Bookmark content
+- Participate in quizzes
+
+---
+
+### Contributor
+
+Contributors can submit:
+
+- Stories
+- Scriptures
+- Festivals
+- Knowledge Capsules
+- Reels
+- Educational Content
+
+Submitted content remains pending until reviewed.
+
+---
+
+### Administrator
+
+Administrators can:
+
+- Review submissions
+- Approve or reject content
+- Publish instantly
+- Manage contributors
+- Moderate the platform
+- Control dynamic content
+- Manage media assets
+
+---
+
+# 🤝 Community Contribution Workflow
+
+Inspired by the collaborative workflow of open-source platforms, Sanskruti AI enables community-driven knowledge creation with a moderation layer to maintain quality and authenticity.
+
+```text
+Contributor
+
+      │
+
+      ▼
+
+Create Content
+
+      │
+
+      ▼
+
+Submit for Review
+
+      │
+
+      ▼
+
+Admin Validation
+
+      │
+
+ ┌────┴─────┐
+ │          │
+ ▼          ▼
+Reject    Approve
+ │          │
+ ▼          ▼
+Feedback  Publish Instantly
+                │
+                ▼
+      Available Across Platform
+```
+
+This workflow enables continuous community participation while ensuring every published contribution meets platform standards.
+
+---
+
+# ⚡ Performance Engineering
+
+Performance is treated as a core design principle throughout the platform.
+
+### Redis Caching
+
+Redis is used to cache frequently accessed data, reducing repeated database queries and improving response times for high-demand content.
+
+Benefits include:
+
+- Faster API responses
+- Reduced database load
+- Better scalability
+- Improved user experience
+
+---
+
+### ImageKit Media Pipeline
+
+Media assets are optimized using ImageKit for efficient delivery.
+
+```text
+Upload
+
+   │
+
+   ▼
+
+ImageKit Processing
+
+   │
+
+   ▼
+
+CDN Distribution
+
+   │
+
+   ▼
+
+Optimized Rendering
+```
+
+This ensures:
+
+- Faster reel playback
+- Optimized images
+- Adaptive delivery
+- Reduced bandwidth usage
+
+---
+
+# 🎬 Motion & Interaction Engine
+
+Sanskruti AI combines multiple animation technologies to create an immersive experience.
+
+### GSAP
+
+Used for:
+
+- Cinematic timelines
+- Scroll-based storytelling
+- Complex sequence animations
+- Camera transitions
+
+---
+
+### Framer Motion
+
+Used for:
+
+- Page transitions
+- Interactive components
+- Micro-interactions
+- Motion-driven navigation
+
+---
+
+### Custom Animation Systems
+
+Additional interaction systems power:
+
+- Cosmic Tree traversal
+- Animated relationship paths
+- Rotating Universe Explorer
+- Timeline progression
+- Dynamic hover effects
+- Ambient visual transitions
+
+Every animation is designed to enhance storytelling rather than serve as decoration.
+
+---
+
+# 📂 Project Structure
+
+```text
+Sanskruti-AI/
+
+├── client/                 # React Frontend
+│
+├── server/                 # Express Backend
+│
+├── controllers/            # Business Logic
+├── routes/                 # API Routes
+├── middleware/             # Authentication & RBAC
+├── models/                 # MongoDB Schemas
+├── services/               # AI & Utility Services
+├── utils/                  # Helper Functions
+│
+├── public/
+├── assets/
+├── README.md
+```
+
+---
+
+# 🚀 Design Principles
+
+The architecture of Sanskruti AI is built around four engineering principles:
+
+### 🧩 Modular
+
+Every feature is isolated, reusable, and independently maintainable.
+
+### ⚡ Performant
+
+Optimized rendering, caching, and media delivery ensure a smooth experience across devices.
+
+### 🤝 Collaborative
+
+The contributor workflow allows the community to expand the platform while preserving quality through moderation.
+
+### 🌍 Scalable
+
+The architecture is designed to accommodate new AI modules, knowledge domains, and interactive experiences without major structural changes.
+
+---
+
+> **"Great software isn't defined by the number of features it has, but by how thoughtfully those features are engineered to work together."**
+> # 🚀 Getting Started
+
+Follow the steps below to set up Sanskruti AI locally.
+
+---
+
+# 📋 Prerequisites
+
+Before running the project, ensure the following tools are installed:
+
+- Node.js (v18 or above)
+- npm or pnpm
+- MongoDB Atlas (or Local MongoDB)
+- Redis Server / Redis Cloud
+- ImageKit Account
+- Google Gemini API Key
+- Git
+
+---
+
+# ⚙️ Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Rishabh-749/Sanskruti-AI.git
+
+cd Sanskruti-AI
+```
+
+---
+
+# 💻 Backend Setup
+
+Navigate to the backend directory.
+
 ```bash
 cd backend
+
 npm install
 ```
-Create a `.env` file in the `backend` directory:
+
+Create a `.env` file inside the **backend** folder.
+
 ```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_cloudinary_key
-CLOUDINARY_API_SECRET=your_cloudinary_secret
+PORT=
+
+MONGO_URI=
+
+JWT_SECRET=
+
+REDIS_HOST=
+
+REDIS_PORT=
+
+REDIS_PASSWORD=
+
+IMAGEKIT_PUBLIC_KEY=
+
+IMAGEKIT_PRIVATE_KEY=
+
+IMAGEKIT_URL_ENDPOINT=
+
+GEMINI_API_KEY=
 ```
+
+Start the backend server.
+
 ```bash
 npm run dev
 ```
 
-### 2. Ignite the Frontend
+---
+
+# 🎨 Frontend Setup
+
+Open another terminal.
+
 ```bash
 cd Frontend
+
 npm install
 ```
-Create a `.env.local` file in the `Frontend` directory:
+
+Create a `.env` file.
+
 ```env
-VITE_API_URL=http://localhost:5000/api
-VITE_GEMINI_API_KEY=your_google_gemini_key
+VITE_API_URL=
+
+VITE_IMAGEKIT_PUBLIC_KEY=
+
+VITE_IMAGEKIT_URL_ENDPOINT=
 ```
+
+Run the frontend.
+
 ```bash
 npm run dev
 ```
-*Your digital sanctuary is now live at `http://localhost:5173`*
+
+Application:
+
+```text
+http://localhost:5173
+```
 
 ---
 
-## 👑 THE INNER SANCTUM *(Admin Access)*
+# ⚡ Running the Complete Platform
 
-For recruiters, principal engineers, and system evaluators, step directly into the command center. Experience the RBAC implementation and content moderation pipeline firsthand.
+Start both servers.
 
-- **Portal:** Navigate to `/admin` or via the Auth interface.
-- **Email:** `rishabhjagtap@gmail.com`
-- **Password:** `12345678`
+### Backend
+
+```bash
+cd backend
+
+npm run dev
+```
+
+### Frontend
+
+```bash
+cd Frontend
+
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:5173
+```
 
 ---
 
-## 🌌 THE HORIZON *(Future Roadmap)*
+# 📸 Platform Preview
 
-- **Multilingual Resonance:** Dynamic, real-time AI translation of scriptures into global regional languages.
-- **WebXR Immersion:** Elevating the Three.js cosmic views into full Virtual Reality (VR) environments.
-- **Decentralized Knowledge:** Integrating blockchain for immutable records of user-verified historical contributions.
-- **Native Ecosystem:** Expanding the React architecture into a React Native cross-platform mobile application.
+> Replace the placeholders below with actual screenshots after deployment.
+
+## 🏠 Dashboard
+
+<p align="center">
+<img src="./screenshots/dashboard.png"/>
+</p>
 
 ---
 
-## 👨‍💻 THE ARCHITECT
+## 🧠 AI Scripture Intelligence
+
+<p align="center">
+<img src="./screenshots/scripture.png"/>
+</p>
+
+---
+
+## 🌌 Cosmic Family Tree
+
+<p align="center">
+<img src="./screenshots/family-tree.png"/>
+</p>
+
+---
+
+## 🪐 Universe Explorer
+
+<p align="center">
+<img src="./screenshots/lokas.png"/>
+</p>
+
+---
+
+## 📖 Storyverse
+
+<p align="center">
+<img src="./screenshots/storyverse.png"/>
+</p>
+
+---
+
+## 🎬 Cultural Reels
+
+<p align="center">
+<img src="./screenshots/reels.png"/>
+</p>
+
+---
+
+## 👑 Admin Dashboard
+
+<p align="center">
+<img src="./screenshots/admin.png"/>
+</p>
+
+---
+
+# 🛣 Roadmap
+
+The platform is continuously evolving.
+
+### AI
+
+- Intelligent Cultural Tutor
+- Personalized Learning Paths
+- Multi-Agent Knowledge System
+- AI Voice Conversations
+- Contextual Recommendations
+
+---
+
+### Knowledge Platform
+
+- Regional Language Support
+- Knowledge Graph Expansion
+- Temple Explorer
+- Historical Timeline Expansion
+- Ancient Literature Library
+
+---
+
+### Community
+
+- Community Discussions
+- Contributor Reputation System
+- Contributor Badges
+- Leaderboards
+- Community Challenges
+
+---
+
+### Engineering
+
+- Progressive Web App
+- Offline Support
+- API Versioning
+- Docker Deployment
+- CI/CD Pipeline
+- Performance Monitoring
+
+---
+
+# 🤝 Contributing
+
+Sanskruti AI follows a moderated contribution workflow inspired by collaborative open-source communities.
+
+### Contribution Process
+
+```text
+Fork Repository
+
+      │
+
+      ▼
+
+Create Feature Branch
+
+      │
+
+      ▼
+
+Develop Changes
+
+      │
+
+      ▼
+
+Submit Pull Request
+
+      │
+
+      ▼
+
+Project Review
+
+      │
+
+      ▼
+
+Merged into Platform
+```
+
+For platform content:
+
+```text
+Contributor
+
+      │
+
+      ▼
+
+Create Story / Festival / Reel
+
+      │
+
+      ▼
+
+Submit
+
+      │
+
+      ▼
+
+Admin Review
+
+      │
+
+ ┌────┴─────┐
+ │          │
+ ▼          ▼
+Reject    Approve
+
+            │
+
+            ▼
+
+Live Instantly
+```
+
+We welcome developers, designers, researchers, historians, and contributors passionate about preserving cultural heritage through technology.
+
+---
+
+# 👨‍💻 Author
 
 <div align="center">
 
-### **Rishabh Jagtap**
-**Full Stack Developer | AI Integration Specialist | Creative Technologist**
+## **Rishabh Jagtap**
 
-*Forging digital experiences at the intersection of complex scalable architecture, generative AI, and stunning spatial design.*
+**Full Stack Developer • AI Enthusiast • UI/UX Engineer**
 
-[GitHub](https://github.com/Rishabh-749) • [LinkedIn](https://www.linkedin.com/in/rishabh-jagtap-9971b0312/)
+Building immersive digital experiences powered by Artificial Intelligence, modern frontend engineering, and scalable backend systems.
 
-<br />
+### Connect
 
-**If this fusion of heritage and high-tech resonated with you, consider giving it a ⭐**
+🐙 GitHub
+
+https://github.com/Rishabh-749
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/rishabh-jagtap-9971b0312/
+
+🌐 Portfolio
+
+Coming Soon...
+
+</div>
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to the open-source technologies powering Sanskruti AI.
+
+- React
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- Redis
+- Google Gemini
+- GSAP
+- Framer Motion
+- ImageKit
+- Tailwind CSS
+- shadcn/ui
+- Radix UI
+
+---
+
+<div align="center">
+
+# 🕉️ Sanskruti AI
+
+### *The Cultural Intelligence Platform*
+
+*"Preserving civilization through technology, storytelling, and artificial intelligence."*
+
+⭐ **If you found this project valuable, consider giving it a star on GitHub.**
+
+Made with ❤️ by **Rishabh Jagtap**
+
 </div>
