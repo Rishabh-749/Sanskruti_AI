@@ -463,44 +463,23 @@ Administrators can:
 
 # 🤝 Community Contribution Workflow
 
-Inspired by the collaborative workflow of open-source platforms, Sanskruti AI enables community-driven knowledge creation with a moderation layer to maintain quality and authenticity.
+Sanskruti AI embraces a community-first approach to preserving and expanding cultural knowledge. Inspired by modern collaborative platforms, every contribution passes through a structured moderation pipeline to ensure authenticity, quality, and consistency before becoming part of the platform.
 
-```text
-Contributor
+<p align="center">
+  <img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/_%20Community%20Contribution%20Workflow.png"
+       alt="Sanskruti AI Community Contribution Workflow"
+       width="100%">
+</p>
 
-      │
+### 🌟 How It Works
 
-      ▼
+- 📝 Contributors create stories, scriptures, festivals, reels, or educational content.
+- 🔍 Every submission undergoes a comprehensive admin review process.
+- ✅ Approved contributions are published instantly across the platform.
+- ❌ Rejected submissions receive constructive feedback for improvement and resubmission.
+- 🌍 High-quality community contributions become instantly accessible to every user, enabling the platform to grow collaboratively while preserving authenticity.
 
-Create Content
-
-      │
-
-      ▼
-
-Submit for Review
-
-      │
-
-      ▼
-
-Admin Validation
-
-      │
-
- ┌────┴─────┐
- │          │
- ▼          ▼
-Reject    Approve
- │          │
- ▼          ▼
-Feedback  Publish Instantly
-                │
-                ▼
-      Available Across Platform
-```
-
-This workflow enables continuous community participation while ensuring every published contribution meets platform standards.
+> **"Every contribution is carefully reviewed, every story is respectfully preserved, and every approved submission becomes part of a living digital civilization."**
 
 ---
 
