@@ -384,9 +384,9 @@ A glimpse into the immersive experiences and intelligent features that power **S
 <tr>
 <td align="center" width="50%">
 
-### 🏠 Dashboard
+### 🏠 Landing Page
 
-<img src="./screenshots/dashboard.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Landing%20Page.png" width="100%"/>
 
 </td>
 
@@ -394,7 +394,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 🧠 AI Scripture Intelligence
 
-<img src="./screenshots/scripture.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/AI%20Scripture%20Intelligence.png" width="100%"/>
 
 </td>
 </tr>
@@ -404,7 +404,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 🌳 Cosmic Family Tree
 
-<img src="./screenshots/family-tree.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Family_Tree.gif" width="100%"/>
 
 </td>
 
@@ -412,7 +412,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 🪐 Universe Explorer
 
-<img src="./screenshots/lokas.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Universe_Explorer.gif" width="100%"/>
 
 </td>
 </tr>
@@ -422,7 +422,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 📖 Storyverse
 
-<img src="./screenshots/storyverse.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Story_Verse.png" width="100%"/>
 
 </td>
 
@@ -430,7 +430,7 @@ A glimpse into the immersive experiences and intelligent features that power **S
 
 ### 🎬 Cultural Reels
 
-<img src="./screenshots/reels.png" width="100%"/>
+<img src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Platform%20Preview/Reels.png" width="100%"/>
 
 </td>
 </tr>
