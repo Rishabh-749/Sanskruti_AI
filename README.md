@@ -1,23 +1,36 @@
 <p align="center">
   <img
     src="https://ik.imagekit.io/Rishi749/Sanskruti-AI%20(ReadmeFile)/Sanskruti%20AI.png"
-    alt="Sanskruti AI"
+    alt="Sanskruti AI Banner"
     width="100%"
   />
 </p>
 
 <div align="center">
 
-**An AI-powered platform that transforms India's civilizational knowledge into immersive, interactive, and intelligent digital experiences.**
+### **An AI-powered platform that transforms India's civilizational knowledge into immersive, interactive, and intelligent digital experiences.**
 
 <br>
 
-[🌐 Live Demo](https://sanskruti-ai.onrender.com) •
-[📖 About](#-about-sanskruti-ai) •
-[✨ Features](#-experience-showcase) •
-[🏗️ Architecture](#️-engineering--system-architecture)
+<a href="#-project-structure">
+  <img src="https://img.shields.io/badge/📁_Project_Structure-161B22?style=for-the-badge&logo=files&logoColor=white" />
+</a>
+
+<a href="#-getting-started">
+  <img src="https://img.shields.io/badge/⚙️_Installation-161B22?style=for-the-badge&logo=gnubash&logoColor=white" />
+</a>
+
+<a href="#-platform-preview">
+  <img src="https://img.shields.io/badge/🖼️_Platform_Preview-161B22?style=for-the-badge&logo=googlephotos&logoColor=white" />
+</a>
+
+<a href="#-author">
+  <img src="https://img.shields.io/badge/👨‍💻_Author-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+---
 
 ---
 # 📖 About Sanskruti AI
