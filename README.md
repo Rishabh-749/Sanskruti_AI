@@ -1,229 +1,124 @@
-# 🕉️ Sanskruti AI
-
 <div align="center">
 
-### AI-Powered Interactive Cultural Heritage Platform
+# 🕉️ S A N S K R U T I   A I 
+
+**B r i d g i n g   A n c i e n t   W i s d o m   &   M o d e r n   I n t e l l i g e n c e**
+
+<br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%2019%20%2B%20TypeScript-3178C6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-Three.js%20%7C%20Tailwind-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-3178C6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-*A deeply immersive full-stack platform leveraging cutting-edge Generative AI, 3D Rendering, and interactive geospatial mapping to explore, preserve, and understand ancient traditions, scriptures, and lineages.*
+*An enterprise-grade, immersive digital sanctuary where generative AI, 3D spatial computing, and geospatial mapping breathe life into millennia of cultural heritage.*
 
-**React 19 • TypeScript • Node.js • Express • MongoDB • Google Gemini AI • Three.js**
+<br />
 
 </div>
 
 ---
 
-## 📖 About the Project
-
-**Sanskruti AI** is an enterprise-grade, full-stack cultural preservation and exploration platform. It seamlessly bridges ancient wisdom with modern technology. By integrating advanced **Large Language Models (LLMs)**, **Voice APIs**, and **3D interactive visualizations**, the platform provides an unparalleled educational and exploratory experience.
-
-From decoding complex scriptures using AI to visualizing mythological family trees and navigating a cosmic-themed cultural map, Sanskruti AI pushes the boundaries of how heritage is consumed in the digital age. It is meticulously engineered to showcase scalable architectural patterns, robust REST API design, and highly complex frontend state management.
+> *"The highest education is that which does not merely give us information but makes our life in harmony with all existence."*
 
 ---
 
-## 🌿 Why Sanskruti AI?
+## 🌟 THE VISION
 
-Preserving cultural nuances often relies on static text or disconnected media. 
-**Sanskruti AI** solves this by unifying interactive education, gamification, and AI-driven personalized learning into a single cohesive ecosystem. It demonstrates the ability to handle high-level engineering challenges required by top-tier tech organizations (FAANG/MANG):
-- **Complex Full-Stack MVC Architecture**
-- **AI/LLM Prompt Engineering & Contextual Integration**
-- **Rich Interactive UIs (WebGL, Canvas, Interactive Maps, Graph Nodes)**
-- **Secure Authentication & Role-Based Access Control (RBAC)**
+**Sanskruti AI** is not just an application; it is a digital renaissance. Designed for scale and built with uncompromising engineering standards, it seamlessly translates the profound depth of ancient traditions, scriptures, and genealogies into a highly interactive, state-of-the-art Web3-ready architecture.
+
+Targeting the engineering rigor expected by top-tier tech organizations (FAANG/MANG), Sanskruti AI demonstrates mastery over **Complex System Architecture**, **LLM Contextual Prompt Engineering**, **WebGL 3D Rendering**, and **Real-Time Data Orchestration**. 
 
 ---
 
-# ✨ Key Features
+## ✨ PILLARS OF INNOVATION
 
-### 🧠 AI Scripture Explainer & Voice QA
-- Deep-dive contextual explanations of ancient texts powered by the **Google Gemini API**.
-- **Voice API integration** for natural, conversational Q&A about historical and mythological events.
-- Dynamic cultural recommendations based on user interactions.
+### 🛕 The Divine Oracle *(AI & Voice Integration)*
+By harnessing the **Google Gemini LLM**, we've created a contextual, memory-aware intelligence that decodes ancient scriptures. Featuring **Web Speech API integration**, users can engage in natural, voice-driven philosophical discourse.
 
-### 🌌 Interactive Storyverse & Cultural Map
-- Immersive **3D Cosmic visualizations** and Loka Maps powered by **Three.js** and **React Three Fiber**.
-- Geospatial mapping of historical events and ancient temples utilizing **Leaflet**.
-- Rich **Storyverse** rendering mythological tales with modern interactive UX/UI.
+### 🌌 Cosmic Cartography *(3D Spatial & Mapping)*
+Step into the *Storyverse*. Powered by **Three.js** and **React Three Fiber**, the UI breaks the boundaries of 2D planes, offering interactive Loka Maps and cosmic visualizations. Paired with **Leaflet**, we map historical and spiritual monuments with pinpoint geospatial accuracy.
 
-### 🧬 Lineage & Family Trees
-- Complex interactive graph node rendering utilizing **React Flow**.
-- Visualizing intricate mythological and historical genealogies dynamically.
+### 🧬 Ancestral Threads *(Graph-Based Lineages)*
+Complex mythologies require complex data structures. Utilizing **React Flow**, Sanskruti AI renders intricate genealogies and divine lineages as interactive, deeply traversable node graphs.
 
-### 📅 Festival Engine & Dharmic Calendar
-- Highly accurate algorithmic calendar tracking lunar/solar events.
-- Real-time event tracking, automated notifications, and deep cultural significance breakdowns.
+### ☸️ The Dharmic Wheel *(Algorithmic Calendar)*
+A highly optimized, algorithmically driven festival engine that calculates precise lunar and solar events, offering automated notifications and deep cultural context for every significant date.
 
-### 🎮 Gamification & Reels
-- **Knowledge Capsules**: Bite-sized, highly engaging historical insights.
-- **Quizzes**: State-driven gamified assessments with real-time scoring.
-- **Cultural Reels**: Infinite-scroll short-form video content implementation.
+### 🎬 Immersive Enlightenment *(Gamification & Media Streams)*
+A custom implementation of infinite-scroll **Cultural Reels** (fetching optimized assets via Cloudinary) and state-driven **Knowledge Capsules/Quizzes**, transforming passive reading into active, gamified retention.
 
-### 👑 Admin Dashboard & Contributor Ecosystem
-- Full **Role-Based Access Control (RBAC)** for administrators.
-- Comprehensive user contribution and moderation pipeline.
-- Advanced analytics and data management suite.
+### 🛡️ The Sanctum *(Admin & Role-Based Access Control)*
+A highly secure, JWT-authenticated dashboard allowing total control over the platform's ecosystem. Features an advanced moderation pipeline for user-contributed content and robust platform analytics.
 
 ---
 
-# 🏗️ Architecture Overview
+## 🏗️ ARCHITECTURAL MASTERY
+
+Designed using a strict **Model-View-Controller (MVC)** pattern on the backend and a highly modular, hook-driven architecture on the frontend, ensuring infinite scalability and fault tolerance.
 
 ```text
-                    ┌──────────────────────────────────────────┐
-                    │          React 19 + TypeScript           │
-                    │   (Zustand, Three.js, GSAP, Tailwind)    │
-                    └────────┬───────────────────────┬─────────┘
-                             │                       │
-                     REST API & Auth             LLM Prompts
-                             │                       │
-             ┌───────────────▼───────────────┐       ▼
-             │       Node.js + Express       │   Google Gemini
-             │      (REST APIs, JWT, RBAC)   │       API
-             └────────┬──────────────┬───────┘
-                      │              │
-                      ▼              ▼
-                 MongoDB          Cloudinary
-               (Mongoose)       (Media Storage)
+ ┌────────────────────────────────────────────────────────────┐
+ │                  THE PRESENTATION LAYER                    │
+ │    React 19 | Zustand | Three.js | GSAP | Tailwind CSS     │
+ └────────────────────────────┬───────────────────────────────┘
+                              │
+                    REST API (Zod Validation) 
+                              │
+ ┌────────────────────────────▼───────────────────────────────┐
+ │                     THE LOGIC LAYER                        │
+ │           Node.js | Express | JWT | Google Gemini AI       │
+ └────────────────────────────┬───────────────────────────────┘
+                              │
+                    Optimized Data Streams
+                              │
+ ┌────────────────────────────▼───────────────────────────────┐
+ │                   THE PERSISTENCE LAYER                    │
+ │         MongoDB (Mongoose)  |  Cloudinary (Media)          │
+ └────────────────────────────────────────────────────────────┘
 ```
 
----
+<br />
 
-# ⚡ Technology Stack
-
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend Core** | React 19, TypeScript, Vite, React Router DOM |
-| **State & Fetching** | Zustand, TanStack React Query |
-| **UI & Styling** | Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, GSAP |
-| **Graphics & Maps** | Three.js, React Three Fiber, Leaflet, React Flow, Recharts |
-| **Backend Core** | Node.js, Express, TypeScript |
-| **Database & ORM** | MongoDB, Mongoose |
-| **AI Integration** | Google Generative AI (Gemini) |
-| **Auth & Security** | JWT, bcryptjs, Supabase *(hybrid usage)* |
-| **Storage** | Cloudinary, Multer |
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Frontend Foundation** | React 19, TypeScript, Vite, React Router DOM |
+| **State Orchestration** | Zustand, TanStack React Query |
+| **Aesthetic Design** | Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, GSAP |
+| **Spatial & Mapping** | Three.js, React Three Fiber, Leaflet, React Flow |
+| **Backend Engine** | Node.js, Express, TypeScript, Zod |
+| **Data & Storage** | MongoDB, Mongoose, Cloudinary, Multer |
+| **Artificial Intelligence** | Google Generative AI (Gemini) |
+| **Security & Auth** | JWT, bcryptjs, Role-Based Access Control (RBAC) |
 
 ---
 
-# 🚀 Project Highlights
+## ⚙️ THE TECHNICAL SYMPHONY
 
-- ✅ **Enterprise-Grade AI Integration** with contextual memory and Voice QA functionality.
-- ✅ **High-Performance 3D Rendering** using WebGL/Three.js natively inside React.
-- ✅ **Role-Based Access Control (RBAC)** with secure Admin Dashboards.
-- ✅ **Complex Graph Rendering** for interactive family trees using React Flow.
-- ✅ **Geospatial Mapping** for accurate and interactive cultural geography.
-- ✅ **Modern "Reels" Video Implementation** handling optimized media streams.
-- ✅ **Robust Backend APIs** with structured error handling, middlewares, and data validation (Zod).
+**1. Context-Injected LLM Pipelines**  
+When interacting with the Scripture Explainer, the backend dynamically injects dense historical context into the prompt schema before querying Gemini. The LLM is strictly constrained to return structured data (JSON/Markdown), which the frontend parses natively.
 
----
+**2. Fluid Asynchronous State Management**  
+Using Zustand combined with TanStack Query, the frontend handles complex caching, optimistic UI updates, and seamless background fetching, ensuring the 3D canvases and Reels never drop frames.
 
-> # 📂 Project Structure
-
-```text
-SanskrutiAI/
-│
-├── 📁 Frontend/                   # React 19 SPA
-│   ├── 📁 src/
-│   │   ├── 📁 components/         # 3D, canvas, cosmic, lokaMap, ui
-│   │   ├── 📁 pages/              # AdminDashboard, ScriptureExplainer, Auth, etc.
-│   │   ├── 📁 store/              # Zustand global state management
-│   │   ├── 📁 hooks/              # Custom React hooks
-│   │   ├── 📁 lib/                # Utility and API clients
-│   │   └── 📁 types/              # Strict TypeScript interfaces
-│   └── package.json
-│
-├── 📁 backend/                    # Node.js / Express API
-│   ├── 📁 src/
-│   │   ├── 📁 controllers/        # Core business logic
-│   │   ├── 📁 models/             # Mongoose database schemas
-│   │   ├── 📁 routes/             # admin, user, scripture, story, etc.
-│   │   ├── 📁 middlewares/        # Auth, upload, and error handling
-│   │   └── 📁 utils/              # Helper functions
-│   └── package.json
-└── README.md
-```
+**3. Robust Data Validation & Security**  
+Every API endpoint is shielded by JWT middleware and rigorously typed payload validation (via Zod), ensuring data integrity from the React client down to the MongoDB documents.
 
 ---
 
-# ⚙️ Application Flow
+## 🔮 THE SACRED GATEWAY *(Installation)*
 
-Sanskruti AI is designed to be deeply interactive, minimizing friction between the user and ancient knowledge while handling complex asynchronous operations smoothly.
+Step into the development ecosystem. Ensure you have **Node.js (v18+)**, a **MongoDB instance**, and your **API Keys** (Cloudinary & Google Gemini).
 
-### Step 1 — Authentication & Authorization
-Users securely sign up/login via JWT-based authentication. The system immediately validates credentials and identifies user roles. 
-- Standard users are routed to the immersive cultural hub.
-- Administrators are granted access to the secure `/admin` dashboard for content and user moderation.
-
-### Step 2 — Exploring the Cosmos
-The entry point features stunning **Three.js** cosmic representations. Users can navigate through the **Dharmic Calendar**, view ongoing events via the **Festival Engine**, or explore geographical historical sites via the **Cultural Map**.
-
-### Step 3 — AI & Scripture Interaction
-When exploring the **Scripture Explainer** or utilizing **Voice QA**:
-1. The user inputs a query via text or voice (utilizing Web Speech APIs).
-2. The frontend triggers a streamlined request to the backend or directly interfaces with the **Google Gemini API**.
-3. Advanced context-aware prompt engineering injects historical framing into the request.
-4. Data is parsed and beautifully rendered back to the user with actionable references.
-
----
-
-# 🔗 Backend API & Core Modules
-
-The Express backend follows a clean MVC architectural pattern, exposing strictly typed and highly optimized REST APIs.
-
-### 🛡️ Admin & User Modules
-- **Authentication**: `POST /auth/login`, `POST /auth/register` (Bcrypt hashing, secure JWT issuance).
-- **Admin Dashboard**: Aggregates platform statistics, handles moderation of user-submitted content (`contribution.route.ts`), and manages user roles.
-
-### 📚 Knowledge & Scripture Modules
-- **Scripture Routes**: Fetches, parses, and serves ancient texts and their AI-generated contextual explanations.
-- **Story Routes**: Serves mythological narratives formatted specifically for the frontend **Storyverse** renderer.
-
-### 🎭 Interactive Modules
-- **Quiz Routes**: Serves gamified quiz data, tracks user scores securely, and handles leaderboards.
-- **Reel Routes**: Manages infinite-scrolling short-form video metadata, fetching optimized assets from Cloudinary.
-- **Festival Routes**: Serves dynamic dates and metadata for the Dharmic Calendar.
-
----
-
-# 🧠 AI Pipeline Implementation
-
-The AI implementation goes far beyond standard chat interfaces:
-1. **Context Injection**: When a user asks about a specific scripture, the system injects vast historical and cultural context into the prompt before sending it to the LLM.
-2. **Format Enforcement**: The LLM is strictly instructed to return data in specific formats (JSON/Markdown) that the frontend easily parses into interactive UI components.
-3. **Voice to Knowledge**: Leverages browser audio APIs and backend processors to transcribe user voice, send intelligent queries to the LLM, and synthesize the response back to audio.
-
----
-
-# 🚀 Getting Started & Installation
-
-## Prerequisites
-Ensure your development environment meets the following requirements:
-- **Node.js** (v18+ recommended)
-- **MongoDB** (Local instance or MongoDB Atlas URI)
-- **Cloudinary Account** (For media uploads and Reel storage)
-- **Google Gemini API Key**
-
----
-
-# 💻 Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone <your-repo-url>
-cd SanskrutiAI
-```
-
-### 2. Backend Setup
-Open a terminal and navigate to the backend directory:
+### 1. Awaken the Backend
 ```bash
 cd backend
 npm install
 ```
-Create a `.env` file in the `backend` directory and add your keys:
+Create a `.env` file in the `backend` directory:
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
@@ -232,14 +127,11 @@ CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_key
 CLOUDINARY_API_SECRET=your_cloudinary_secret
 ```
-Run the backend server:
 ```bash
 npm run dev
 ```
-*The API will run on `http://localhost:5000`*
 
-### 3. Frontend Setup
-Open a **new terminal** and navigate to the frontend directory:
+### 2. Ignite the Frontend
 ```bash
 cd Frontend
 npm install
@@ -249,65 +141,44 @@ Create a `.env.local` file in the `Frontend` directory:
 VITE_API_URL=http://localhost:5000/api
 VITE_GEMINI_API_KEY=your_google_gemini_key
 ```
-Run the frontend application:
 ```bash
 npm run dev
 ```
-*The App will run on `http://localhost:5173`*
+*Your digital sanctuary is now live at `http://localhost:5173`*
 
 ---
 
-# 👑 Admin Dashboard Access
+## 👑 THE INNER SANCTUM *(Admin Access)*
 
-For evaluators, recruiters, and new developers, use the following credentials to access the fully-featured **Admin Dashboard**. This portal includes analytics, content moderation, and complete user management capabilities.
+For recruiters, principal engineers, and system evaluators, step directly into the command center. Experience the RBAC implementation and content moderation pipeline firsthand.
 
-- **Admin Login Route**: Navigate to the Auth page or `/admin`
-- **Email**: `rishabhjagtap@gmail.com`
-- **Password**: `12345678`
-
-*(Note: These are seeded credentials for demonstration and portfolio review purposes.)*
+- **Portal:** Navigate to `/admin` or via the Auth interface.
+- **Email:** `rishabhjagtap@gmail.com`
+- **Password:** `12345678`
 
 ---
 
-# 🔮 Future Roadmap
+## 🌌 THE HORIZON *(Future Roadmap)*
 
-- **Multi-Language Support**: Expanding AI models to translate scriptures and UI into regional languages dynamically.
-- **WebXR Integration**: Transitioning the Three.js cosmic views into full Virtual Reality (VR) experiences for headsets.
-- **Social Ecosystem**: Expanding the user contribution features to allow peer-to-peer discussions and community forums.
-- **Mobile Application**: Porting the React frontend to React Native for native iOS/Android distribution.
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome to help preserve cultural heritage!
-1. Fork the project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+- **Multilingual Resonance:** Dynamic, real-time AI translation of scriptures into global regional languages.
+- **WebXR Immersion:** Elevating the Three.js cosmic views into full Virtual Reality (VR) environments.
+- **Decentralized Knowledge:** Integrating blockchain for immutable records of user-verified historical contributions.
+- **Native Ecosystem:** Expanding the React architecture into a React Native cross-platform mobile application.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 THE ARCHITECT
 
 <div align="center">
 
-## **Rishabh Jagtap**
+### **Rishabh Jagtap**
+**Full Stack Developer | AI Integration Specialist | Creative Technologist**
 
-**Full Stack Developer | AI Integration Specialist | UI/UX Enthusiast**
+*Forging digital experiences at the intersection of complex scalable architecture, generative AI, and stunning spatial design.*
 
-Showcasing enterprise-level architecture, complex frontend systems (WebGL, AI, Maps), and scalable backend APIs.
+[GitHub](https://github.com/Rishabh-749) • [LinkedIn](https://www.linkedin.com/in/rishabh-jagtap-9971b0312/)
 
-### Connect With Me
+<br />
 
-🐙 **GitHub:** [github.com/Rishabh-749](https://github.com/Rishabh-749)  
-💼 **LinkedIn:** [linkedin.com/in/rishabh-jagtap-9971b0312/](https://www.linkedin.com/in/rishabh-jagtap-9971b0312/)  
-
-</div>
-
----
-
-<div align="center">
-If this project impresses you, consider giving it a ⭐ on GitHub!
+**If this fusion of heritage and high-tech resonated with you, consider giving it a ⭐**
 </div>
