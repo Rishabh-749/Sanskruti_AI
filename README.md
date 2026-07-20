@@ -274,15 +274,14 @@ cd Sanskruti-AI
 
 # 💻 Backend Setup
 
-Navigate to the backend directory.
+Navigate to the backend directory and install the required dependencies.
 
 ```bash
-cd backend
-
+cd Backend
 npm install
 ```
 
-### Backend Environment Variables
+### Configure Environment Variables
 
 Create a `.env` file inside the **Backend** folder.
 
@@ -302,35 +301,44 @@ API_KEY=
 API_SECRET=
 ```
 
-Start the backend server.
-
-```bash
-npm run dev
-```
+---
 
 # 🎨 Frontend Setup
 
-Open a new terminal and navigate to the frontend directory.
+Open a new terminal, navigate to the frontend directory, and install the dependencies.
 
 ```bash
 cd Frontend
-
 npm install
 ```
+
+### Configure Environment Variables
 
 Create a `.env` file inside the **Frontend** folder.
 
 ```env
-# Google Gemini API
+# Google Gemini
 VITE_GEMINI_API_KEY=
 
-# ElevenLabs API
+# ElevenLabs
 VITE_ELEVENLABS_API_KEY=
 ```
 
-Start the frontend development server.
+---
+
+# ▶️ Run the Application
+
+Start the backend server.
 
 ```bash
+cd Backend
+npm run dev
+```
+
+Open a second terminal and start the frontend.
+
+```bash
+cd Frontend
 npm run dev
 ```
 
@@ -339,33 +347,6 @@ The application will be available at:
 ```text
 http://localhost:5173
 ```
-
-# ⚡ Running the Complete Platform
-
-Start both servers.
-
-### Backend
-
-```bash
-cd backend
-
-npm run dev
-```
-
-### Frontend
-
-```bash
-cd Frontend
-
-npm run dev
-```
-
-Open:
-
-```text
-http://localhost:5173
-```
-
 ---
 
 # 📸 Platform Preview
