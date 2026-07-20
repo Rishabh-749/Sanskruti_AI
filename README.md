@@ -216,26 +216,26 @@ Animations are designed to enhance storytelling and exploration, creating a cine
 > **Every animation is intentional—guiding users through stories, relationships, and cultural experiences while maintaining a smooth and engaging interface.**
 
 ---
-
 # 📂 Project Structure
 
 ```text
 Sanskruti-AI/
-
-├── client/                 # React Frontend
 │
-├── server/                 # Express Backend
+├── Frontend/            # React + Vite Client
+│   ├── src/
+│   ├── public/
+│   └── ...
 │
-├── controllers/            # Business Logic
-├── routes/                 # API Routes
-├── middleware/             # Authentication & RBAC
-├── models/                 # MongoDB Schemas
-├── services/               # AI & Utility Services
-├── utils/                  # Helper Functions
+├── Backend/             # Express.js Server
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── middleware/
+│   ├── services/
+│   └── ...
 │
-├── public/
-├── assets/
 ├── README.md
+└── LICENSE
 ```
 ---
 
@@ -282,28 +282,24 @@ cd backend
 npm install
 ```
 
-Create a `.env` file inside the **backend** folder.
+### Backend Environment Variables
+
+Create a `.env` file inside the **Backend** folder.
 
 ```env
+# Server Configuration
 PORT=
 
-MONGO_URI=
+# Database
+MONGODB_URI=
 
-JWT_SECRET=
+# Frontend URL
+FRONTEND_URL=
 
-REDIS_HOST=
-
-REDIS_PORT=
-
-REDIS_PASSWORD=
-
-IMAGEKIT_PUBLIC_KEY=
-
-IMAGEKIT_PRIVATE_KEY=
-
-IMAGEKIT_URL_ENDPOINT=
-
-GEMINI_API_KEY=
+# Cloudinary
+CLOUD_NAME=
+API_KEY=
+API_SECRET=
 ```
 
 Start the backend server.
@@ -312,11 +308,9 @@ Start the backend server.
 npm run dev
 ```
 
----
-
 # 🎨 Frontend Setup
 
-Open another terminal.
+Open a new terminal and navigate to the frontend directory.
 
 ```bash
 cd Frontend
@@ -324,29 +318,27 @@ cd Frontend
 npm install
 ```
 
-Create a `.env` file.
+Create a `.env` file inside the **Frontend** folder.
 
 ```env
-VITE_API_URL=
+# Google Gemini API
+VITE_GEMINI_API_KEY=
 
-VITE_IMAGEKIT_PUBLIC_KEY=
-
-VITE_IMAGEKIT_URL_ENDPOINT=
+# ElevenLabs API
+VITE_ELEVENLABS_API_KEY=
 ```
 
-Run the frontend.
+Start the frontend development server.
 
 ```bash
 npm run dev
 ```
 
-Application:
+The application will be available at:
 
 ```text
 http://localhost:5173
 ```
-
----
 
 # ⚡ Running the Complete Platform
 
